@@ -1,0 +1,62 @@
+#first{
+    background-color: aquamarine;
+}
+.navbar-brand{
+    font-size: 250%;
+    font-weight: bolder;
+    color: red;
+    margin: 1rem;
+}
+#last{
+    background-color: ;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.contact{
+    margin: auto;
+    padding: 1rem;
+}
+#promise{
+    background-color: rgb(241, 228, 130);
+    text-align: center;
+    padding: 2rem 1rem 2rem 1rem;
+}
+#about{
+    padding: 1rem;
+    background-color: rgb(177, 203, 207);
+}
+#bed{
+    background-color: bisque;
+    text-align: center;
+    padding: 2rem;
+}
+.bed-label{
+    color: red;
+}
+#almirah{
+    background-color: sandybrown;
+    padding-top: 2rem;
+    text-align: center;
+}
+#dinning, #office, #kitchen {
+    background-color: bisque;
+    text-align: center;
+    padding-top: 2rem;
+}
+#sofa{
+    background-color: sandybrown;
+    text-align: center;
+    padding-top: 2rem;
+}
+#last{
+    background-color: aquamarine;
+    padding: 2rem;
+}
+#table {
+padding-top: 1rem;
+text-align: center;
+background-color: sandybrown;
+}
